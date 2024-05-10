@@ -134,7 +134,6 @@ BOOL CGTestPlugIn::OnLoadPlugIn()
 	//    CPlugIn::OnLoadPlugIn() from your derived class.
 	// TODO: Add plug-in initialization code here.
 
- 
 	return TRUE;
 }
 
@@ -148,6 +147,7 @@ void CGTestPlugIn::OnUnloadPlugIn()
 	//    or tools here.
 
 	// TODO: Add plug-in cleanup code here.
+
 }
 
 

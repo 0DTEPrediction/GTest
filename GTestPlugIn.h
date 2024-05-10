@@ -1,5 +1,6 @@
 // GTestPlugIn.h : main header file for the GTest plug-in.
 //
+#include "stdafx.h"
 
 #pragma once
 
@@ -57,6 +58,7 @@ public:
 
 private:
   ON_wString m_plugin_version;
+
 
   // TODO: Add additional class information here
 };
